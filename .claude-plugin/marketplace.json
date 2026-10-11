@@ -1,0 +1,26 @@
+{
+  "name": "akasecurity-beta",
+  "owner": {
+    "name": "AKA Security",
+    "url": "https://github.com/akasecurity"
+  },
+  "metadata": {
+    "description": "Pre-release builds of AKA Security's tools for coding agents. Opt-in only.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-tc",
+      "source": {
+        "source": "npm",
+        "package": "@akasecurity/ai-tc-claude-code",
+        "version": "0.9.17-beta.1",
+        "registry": "https://registry.npmjs.org"
+      },
+      "description": "Beta of AI Traffic Control (ai-tc) for Claude Code: prompts that need redacting are rewritten in place instead of blocked, and you see your own values on screen while the model keeps vault pointers.",
+      "metadata": {
+        "integrity": "sha512-+hccSxVK21LBf3Gq94dLEyPHB/gmzIem/16jIr11dOrHnEfMZ25lxitlb/S0v+7sTvm6PAdDE07tOPYtZ/xVdQ=="
+      }
+    }
+  ]
+}
