@@ -14,12 +14,12 @@
       "source": {
         "source": "npm",
         "package": "@akasecurity/ai-tc-claude-code",
-        "version": "0.9.17-beta.1",
+        "version": "0.9.18",
         "registry": "https://registry.npmjs.org"
       },
-      "description": "Beta of AI Traffic Control (ai-tc) for Claude Code: prompts that need redacting are rewritten in place instead of blocked, and you see your own values on screen while the model keeps vault pointers.",
+      "description": "Early builds of AI Traffic Control (ai-tc) for Claude Code: prompts that need redacting are rewritten in place instead of blocked, and you see your own values on screen while the model keeps vault pointers.",
       "metadata": {
-        "integrity": "sha512-+hccSxVK21LBf3Gq94dLEyPHB/gmzIem/16jIr11dOrHnEfMZ25lxitlb/S0v+7sTvm6PAdDE07tOPYtZ/xVdQ=="
+        "integrity": "sha512-006d0A81mrF+Id/LWJkn1+xzKRWmTHG8Kh2jiZ8zYM2Y8TKve2WH17YSTJNzY25yBQT7p7qG1Kr7vUD7Y8ka7w=="
       }
     }
   ]

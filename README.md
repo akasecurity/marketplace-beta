@@ -6,7 +6,7 @@ Pre-release builds of **ai-tc** (AI Traffic Control) for Claude Code, for people
 
 | Plugin | Version | What's new |
 |---|---|---|
-| `ai-tc@akasecurity-beta` | `0.9.17-beta.1` | On Claude Code, prompts that need redacting are rewritten in place instead of blocked, and you see your own values on screen while the model keeps vault pointers. |
+| `ai-tc@akasecurity-beta` | `0.9.18` | On Claude Code, prompts that need redacting are rewritten in place instead of blocked, and you see your own values on screen while the model keeps vault pointers. |
 
 The entry pins an exact npm version of `@akasecurity/ai-tc-claude-code` and records its `sha512` integrity, the same way the stable marketplace does.
 
