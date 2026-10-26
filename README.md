@@ -1,4 +1,16 @@
-# AKA Security beta marketplace
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
+  <img src="assets/cover-light.svg" alt="The AKA Security beta marketplace, opt-in pre-release builds of AKA Security's tools for coding agents. Illustration: the marketplace gantry with one extra dashed lane signed beta, leading to a short test track that loops back." width="100%">
+</picture>
+
+<p align="center">
+  <a href="#whats-in-it-now"><b>What's in it now</b></a> &nbsp;·&nbsp;
+  <a href="#try-it"><b>Try it</b></a> &nbsp;·&nbsp;
+  <a href="#reporting-problems"><b>Reporting problems</b></a>
+</p>
+
+<h3 align="center">Opt-in pre-release builds of AKA Security's tools for coding agents.</h3>
+
 
 Pre-release builds of **ai-tc** (AI Traffic Control) for Claude Code, for people who want to try them before they ship. Nothing here reaches anyone who didn't add this marketplace: managed fleets and the stable [`akasecurity/marketplace`](https://github.com/akasecurity/marketplace) are unaffected.
 
